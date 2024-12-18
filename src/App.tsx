@@ -108,15 +108,15 @@ const App: React.FC = () => {
             onEquationChange={handleEquationChange}
             nextFunction="Function 2"
           />
-          <img src="src/assets/Vector 1.png" alt="line-2" className="line-2" />
+          <img src="assets/Vector 1.png" alt="line-2" className="line-2" />
           <FunctionCard
             id={2}
             equation={equations[2]}
             onEquationChange={handleEquationChange}
             nextFunction="Function 4"
           />
-          <img src="src/assets/Vector 2.png" alt="line-3" className="line-3" />
-          <img src="src/assets/Vector 4.png" alt="line-5" className="line-5" />
+          <img src="assets/Vector 2.png" alt="line-3" className="line-3" />
+          <img src="assets/Vector 4.png" alt="line-5" className="line-5" />
           <FunctionCard
             id={3}
             equation={equations[3]}
@@ -145,7 +145,7 @@ const App: React.FC = () => {
             onEquationChange={handleEquationChange}
             nextFunction="Function 5"
           />
-          <img src="src/assets/Vector 1.png" alt="line-4" className="line-4" />
+          <img src="assets/Vector 1.png" alt="line-4" className="line-4" />
           <FunctionCard
             id={5}
             equation={equations[5]}
